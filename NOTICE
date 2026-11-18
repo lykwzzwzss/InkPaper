@@ -1,0 +1,15 @@
+InkPaper (墨纸)
+License: PolyForm Noncommercial License 1.0.0
+https://polyformproject.org/licenses/noncommercial/1.0.0
+
+Required Notice: Copyright (c) 2026 kur0neko
+
+This software adapts and builds upon the following open-source projects and community contributions:
+- kur0neko/huawei-epd-pn532 (https://gitee.com/kur0neko/huawei-epd-pn532) — PolyForm Noncommercial License 1.0.0
+- yhl88890/qpoll-lite (https://github.com/yhl88890/qpoll-lite) — PolyForm Noncommercial License 1.0.0
+- yhl88890/huawei-nfc-eink-myron (https://github.com/yhl88890/huawei-nfc-eink-myron) — PolyForm Noncommercial License 1.0.0
+- ZhaoGY-N/huawei-nfc-eink-android-app (https://github.com/ZhaoGY-N/huawei-nfc-eink-android-app) — PolyForm Noncommercial License 1.0.0
+- wiwiwei/ink-nfc-lab (https://github.com/wiwiwei/ink-nfc-lab) — PolyForm Noncommercial License 1.0.0
+- RikkaApps/Shizuku-API (https://github.com/RikkaApps/Shizuku-API) — MIT License, Copyright (c) 2021 Rikka
+
+See THIRD_PARTY_NOTICES.md and app/src/main/assets/licenses/ for complete attribution and license texts.

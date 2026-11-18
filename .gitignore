@@ -1,0 +1,36 @@
+# Gradle & Android build artifacts
+.gradle/
+build/
+*/build/
+app/release/
+app/debug/
+dist/
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# Local SDK & machine config
+local.properties
+
+# Keystores & signing secrets
+*.keystore
+*.jks
+
+# IDE & editor files
+.idea/
+*.iml
+.vscode/
+*.swp
+*~
+
+# Native build
+.cxx/
+.externalNativeBuild/
+obj/
+
+# Logs & OS junk
+captures/
+*.log
+.DS_Store
+Thumbs.db
